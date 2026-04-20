@@ -16,5 +16,5 @@ pwd → shows current folder you are in
 
 ## What I Learned
 Linux basics are important for cybersecurity.
-Linux basics commands
-We can see hidden files also by using ls -a
+Linux basics commands.
+We can see hidden files also by using ls -a.
