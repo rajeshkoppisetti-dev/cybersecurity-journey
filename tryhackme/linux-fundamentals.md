@@ -13,8 +13,8 @@ cat(concatenate) → read file
 ## What I Did
 - Navigated folders
 - Viewed files
-- we can see hidden files also by using ls -a
 
 ## What I Learned
 Linux basics are important for cybersecurity.
 Linux basics commands
+We can see hidden files also by using ls -a
